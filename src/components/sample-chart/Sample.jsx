@@ -1,9 +1,9 @@
 import React from 'react';
-import  './Sample.css';
+import './Sample.css';
 
 const Sample = () => {
   return (
-    <div>Sample</div>
+    <div>Sample Chart</div>
   )
 }
 
